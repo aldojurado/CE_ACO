@@ -9,12 +9,17 @@ public class CE {
         imprimeMenu(1);
         int opcion = escaneaNum(2);
         if (opcion == 1) {
-            System.out.println("Ingrese el nombre del archivo: ");
-            String rutaIngresada = scanner.next();
-            Coloracion coloracion = new Coloracion(rutaIngresada);
-            // Es posible cambiar el critero de término de ambas búsquedas, en este caso BLI
-            // 100 iteraciones y BE 50 iteraciones.
-            coloracion.busquedaLocalIterada(100, 50);
+            // System.out.println("Ingrese el nombre del archivo: ");
+            // String rutaIngresada = scanner.next();
+            Graph graph = new Graph(5);
+            graph.addEdge(0, 1);
+            graph.addEdge(1, 2);
+            graph.addEdge(2, 3);
+            graph.addEdge(3, 4);
+            graph.addEdge(4, 0);
+
+            ACO aco = new ACO(graph, 10, 100, 1.0, 1.0, 0.5);
+            aco.optimize();
         } else {
             System.out.println("Opción inválida");
         }
