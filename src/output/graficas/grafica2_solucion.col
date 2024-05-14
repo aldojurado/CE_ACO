@@ -1,0 +1,22 @@
+Primer solución aleatoria: [3, 7, 5, 9, 7, 4, 3, 3, 9, 4]
+
+Evaluación de la primer solución aleatoria: 5
+
+Solución vecina generada: [3, 7, 3, 9, 7, 4, 3, 3, 9, 4]
+
+Evaluación de la solución vecina: 5
+
+Solución más optimizada encontrada después de 4 iteraciones y 30 iteraciones sin mejora.
+Vértice 1: Color 4
+Vértice 2: Color 9
+Vértice 3: Color 8
+Vértice 4: Color 4
+Vértice 5: Color 9
+Vértice 6: Color 8
+Vértice 7: Color 9
+Vértice 8: Color 4
+Vértice 9: Color 9
+Vértice 10: Color 8
+Total de colores utilizados: 3
+
+Arreglo de valores discretos: [4, 9, 8, 4, 9, 8, 9, 4, 9, 8]

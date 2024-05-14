@@ -1,0 +1,92 @@
+Primer solución aleatoria: [12, 26, 65, 45, 62, 73, 61, 64, 59, 51, 20, 13, 67, 14, 17, 24, 8, 78, 56, 6, 9, 40, 37, 6, 69, 2, 45, 72, 45, 62, 39, 79, 51, 69, 15, 33, 52, 3, 30, 71, 52, 42, 56, 61, 59, 6, 44, 65, 60, 24, 70, 5, 68, 18, 40, 58, 55, 4, 39, 33, 46, 13, 40, 46, 44, 28, 27, 21, 31, 50, 37, 47, 23, 79, 25, 51, 13, 53, 31, 35]
+
+Evaluación de la primer solución aleatoria: 55
+
+Solución vecina generada: [12, 26, 65, 45, 62, 73, 61, 64, 59, 51, 20, 13, 67, 14, 17, 24, 8, 78, 56, 6, 9, 40, 37, 6, 69, 2, 45, 72, 45, 62, 39, 79, 51, 69, 15, 33, 52, 3, 30, 71, 52, 42, 56, 61, 59, 6, 44, 65, 60, 24, 70, 5, 68, 18, 40, 58, 55, 4, 39, 33, 46, 13, 40, 46, 44, 28, 27, 21, 31, 50, 37, 6, 23, 79, 25, 51, 13, 53, 31, 35]
+
+Evaluación de la solución vecina: 54
+
+Solución más optimizada encontrada después de 29 iteraciones y 1000 iteraciones sin mejora.
+Vértice 1: Color 78
+Vértice 2: Color 40
+Vértice 3: Color 76
+Vértice 4: Color 76
+Vértice 5: Color 5
+Vértice 6: Color 7
+Vértice 7: Color 78
+Vértice 8: Color 31
+Vértice 9: Color 7
+Vértice 10: Color 7
+Vértice 11: Color 40
+Vértice 12: Color 19
+Vértice 13: Color 5
+Vértice 14: Color 17
+Vértice 15: Color 28
+Vértice 16: Color 5
+Vértice 17: Color 68
+Vértice 18: Color 18
+Vértice 19: Color 17
+Vértice 20: Color 19
+Vértice 21: Color 80
+Vértice 22: Color 29
+Vértice 23: Color 18
+Vértice 24: Color 80
+Vértice 25: Color 64
+Vértice 26: Color 29
+Vértice 27: Color 5
+Vértice 28: Color 47
+Vértice 29: Color 44
+Vértice 30: Color 28
+Vértice 31: Color 63
+Vértice 32: Color 64
+Vértice 33: Color 29
+Vértice 34: Color 5
+Vértice 35: Color 68
+Vértice 36: Color 5
+Vértice 37: Color 78
+Vértice 38: Color 29
+Vértice 39: Color 76
+Vértice 40: Color 77
+Vértice 41: Color 72
+Vértice 42: Color 19
+Vértice 43: Color 19
+Vértice 44: Color 63
+Vértice 45: Color 77
+Vértice 46: Color 7
+Vértice 47: Color 19
+Vértice 48: Color 19
+Vértice 49: Color 19
+Vértice 50: Color 29
+Vértice 51: Color 39
+Vértice 52: Color 76
+Vértice 53: Color 77
+Vértice 54: Color 44
+Vértice 55: Color 29
+Vértice 56: Color 78
+Vértice 57: Color 43
+Vértice 58: Color 31
+Vértice 59: Color 5
+Vértice 60: Color 19
+Vértice 61: Color 19
+Vértice 62: Color 5
+Vértice 63: Color 7
+Vértice 64: Color 44
+Vértice 65: Color 47
+Vértice 66: Color 9
+Vértice 67: Color 44
+Vértice 68: Color 77
+Vértice 69: Color 44
+Vértice 70: Color 43
+Vértice 71: Color 9
+Vértice 72: Color 44
+Vértice 73: Color 19
+Vértice 74: Color 5
+Vértice 75: Color 19
+Vértice 76: Color 39
+Vértice 77: Color 19
+Vértice 78: Color 9
+Vértice 79: Color 19
+Vértice 80: Color 72
+Total de colores utilizados: 22
+
+Arreglo de valores discretos: [78, 40, 76, 76, 5, 7, 78, 31, 7, 7, 40, 19, 5, 17, 28, 5, 68, 18, 17, 19, 80, 29, 18, 80, 64, 29, 5, 47, 44, 28, 63, 64, 29, 5, 68, 5, 78, 29, 76, 77, 72, 19, 19, 63, 77, 7, 19, 19, 19, 29, 39, 76, 77, 44, 29, 78, 43, 31, 5, 19, 19, 5, 7, 44, 47, 9, 44, 77, 44, 43, 9, 44, 19, 5, 19, 39, 19, 9, 19, 72]
