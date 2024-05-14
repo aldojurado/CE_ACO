@@ -14,6 +14,7 @@ public class ACO {
     // Almacena la ruta del archivo ingresada para devolver la solución
     String rutaArchivo = "";
     private int[][] matrizAdyacencia;
+
     // Almacena el número de vértices del archivo ingresado para crear las matrices
     private int numVertices;
 
@@ -23,7 +24,12 @@ public class ACO {
     }
 
     public void ejecutaACO() {
-        // quizá borre toda la clase
+        // Inicializar solución
+        /**
+         * Ciclo mientras no se alcance la condición de término
+         * para cada hormiga 1,...,k
+         * 
+         */
     }
 
     /**
